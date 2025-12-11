@@ -1,6 +1,10 @@
 # MetaClass
 
-![MetaClass Dashboard](./Web.png)
+<div align="center">
+  <img 
+    style="width: 900px;"
+    src="https://github.com/Meta-Course/.github/blob/main/Landing.jpg">
+</div>
 
 **MetaClass** is an automated academic management platform designed to align unstructured lecture data with structured course syllabi.
 
