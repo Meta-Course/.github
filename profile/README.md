@@ -8,7 +8,7 @@
 
 **MetaClass** is an automated academic management platform designed to align unstructured lecture data with structured course syllabi.
 
-The system utilizes multimodal AI (Google Gemini) to ingest lecture content—audio, transcripts, and whiteboard imagery—and dynamically map it to specific examination scopes defined in a syllabus. Unlike static note-taking tools, MetaClass maintains a reactive state: updates to the syllabus or re-processing of lecture data trigger a global re-classification of all stored content.
+The system utilizes multimodal AI (Google Gemini) to ingest lecture content, audio, transcripts, and whiteboard imagery, and dynamically map it to specific examination scopes defined in a syllabus. Unlike static note-taking tools, MetaClass maintains a reactive state: updates to the syllabus or re-processing of lecture data trigger a global re-classification of all stored content.
 
 ### Core Functionality
 
