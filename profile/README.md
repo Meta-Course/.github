@@ -1,5 +1,8 @@
 # MetaClass
 
+[![Live Demo (JS)](https://img.shields.io/badge/Live_Demo-Visit-brightgreen)](https://Meta-Course.github.io)
+[![Report Bug](https://img.shields.io/badge/Report-Bug-red)](https://github.com/Meta-Course/Meta-Course.github.io/issues)
+
 <div align="center">
   <img 
     style="width: 900px;"
